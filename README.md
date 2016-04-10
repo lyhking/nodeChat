@@ -1,6 +1,6 @@
-# nodeCha
+# nodeChat
 
-《了不起的javascirpt》书上第6章聊天程序
+《了不起的node.js》书上第6章聊天程序
 
 为适配windows telnet做了些改动：
 
